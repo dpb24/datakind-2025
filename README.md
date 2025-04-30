@@ -10,7 +10,7 @@ This project explores financial inclusion and barriers to economic opportunity i
 ### 🚨 The Challenge 🏧 💵 💳
 * **Financial exclusion remains widespread in Kenya :** Bank account ownership rates vary dramatically — from **92.5%** in Nairobi to just **44.1%** in West Pokot.
 
-* **Youth are especially underserved:** An average of **83.3%** of 15–19 year olds do not have a bank account.
+* **Youth are especially underserved:** only **16.7%** of 15–19 year olds have a bank account.
 
 ### 💡 A pathway to Inclusion 📱
 * **Mobile phones are a key enabler:** There is a strong correlation between mobile phone ownership and access to financial services (e.g., bank accounts, mobile money platforms)
