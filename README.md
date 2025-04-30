@@ -22,9 +22,8 @@ This project presents an Exploratory Data Analysis (EDA) of Kenya’s [2024 FinA
 <br/>
 <br/> <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="finaccess_economic_opportunity.png" width="800">
+    <img src="finaccess_account-ownership_vs_opportunity.png" width="800">
     <img src="finaccess_exclusion_maps.png" width="800">
     <img src="finaccess_exclusion_by_age.png" width="800">
-    <img src="finaccess_account-ownership_vs_opportunity.png" width="800">
-    <img src="finaccess_economic_opportunity.png" width="800">
-    <img src="finaccess_mobile_phone_by_age.png" width="800">
 </div>
