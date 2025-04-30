@@ -3,22 +3,23 @@
 </div>
 
 # Financial Inclusion & Economic Opportunity - Kenya 🇰🇪
+### *Insights from the 2024 FinAccess Household Survey*
 
-This project presents an Exploratory Data Analysis (EDA) of Kenya’s [2024 FinAccess Household Survey](https://finaccess.knbs.or.ke/reports-and-datasets), conducted for the [DataKind](http://www.datakind.org) event Exploring International Economic Opportunity Data and Insights.
+This project explores financial inclusion and barriers to economic opportunity in Kenya using data from the 2024 FinAccess Household Survey. Developed for the DataKind event Exploring International Economic Opportunity Data and Insights, this Exploratory Data Analysis (EDA) highlights key regional and demographic disparities — and potential solutions.
 
 ### 🚨 The Challenge 🏧 💵 💳
-* **Financial exclusion remains widespread:** Bank account ownership varies dramatically — from **92.5%** in Nairobi to just **44.1%** in West Pokot
+* **Financial exclusion remains widespread in Kenya :** Bank account ownership rates vary dramatically — from **92.5%** in Nairobi to just **44.1%** in West Pokot.
 
-* **Youth are especially underserved:** Across counties, an average of **83.3%** of 15–19 year olds across counties lack a bank account
+* **Youth are especially underserved:** An average of **83.3%** of 15–19 year olds do not have a bank account.
 
-### 💡 A pathway to inclusion 📱
-* **Mobile phones are a key enabler:** Strong correlation observed between mobile phone ownership and access to financial services (e.g., bank accounts, mobile money)
+### 💡 A pathway to Inclusion 📱
+* **Mobile phones are a key enabler:** There is a strong correlation between mobile phone ownership and access to financial services (e.g., bank accounts, mobile money platforms)
 
-* In West Pokot, **47.6%** of adults do not own a mobile phone. **60%** of youths aged 15–19 don't have a mobile phone. <br/> 
+* In West Pokot, **47.6%** of adults lack a mobile phone. Nationally, **60%** of youths aged 15–19 do not own one. <br/> 
 
-* **Expanding mobile access** in rural areas and among young people could significantly boost financial inclusion.
+* **Expanding mobile phone access** - especially in rural areas and among young people - offers a scalable and high-impact stratgy for advancing financial inclusion.
 
-#### 📊 Explore the Jupyter notebook [here](https://www.kaggle.com/code/davidpbriggs/datakind-finaccess-kenya/notebook)
+#### 📊 Explore the Jupyter notebook [here](https://github.com/dpb24/datakind-2025/blob/main/datakind-finaccess-kenya.ipynb)
 <br/>
 <br/> <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
