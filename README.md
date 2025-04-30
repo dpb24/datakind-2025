@@ -4,7 +4,7 @@
 
 # Financial Inclusion & Economic Opportunity - Kenya 🇰🇪
 
-This project presents an Exploratory Data Analysis (EDA) of Kenya’s [2024 FinAccess Household Survey](https://finaccess.knbs.or.ke/reports-and-datasets), conducted for the [DataKind](http://www.datakind.org) event *Exploring International Economic Opportunity Data and Insights*. It explores key drivers of financial inclusion and highlights regional and demographic disparities across the country.
+This project presents an Exploratory Data Analysis (EDA) of Kenya’s [2024 FinAccess Household Survey](https://finaccess.knbs.or.ke/reports-and-datasets), conducted for the [DataKind](http://www.datakind.org) event Exploring International Economic Opportunity Data and Insights.
 
 ### 🚨 The Challenge 🏧 💵 💳
 * **Financial exclusion remains widespread:** Bank account ownership varies dramatically — from **92.5%** in Nairobi to just **44.1%** in West Pokot
