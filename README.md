@@ -18,12 +18,12 @@ A pathway to Inclusion:
 
 Let’s turn data into action. 🎈 <br/> <br/>
 
-#### 📊 Explore the Jupyter notebook: [GitHub](https://github.com/dpb24/datakind-2025/blob/main/datakind-finaccess-kenya.ipynb)  | [Kaggle](https://www.kaggle.com/code/davidpbriggs/datakind-finaccess-kenya/notebook) | [DataBricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2268439070581912/2935149819780672/6259162958285469/latest.html)
+#### 📊 Explore the Jupyter notebook: [GitHub](https://github.com/dpb24/datakind-2025/blob/main/notebooks/datakind-finaccess-kenya.ipynb)  | [Kaggle](https://www.kaggle.com/code/davidpbriggs/datakind-finaccess-kenya/notebook) | [DataBricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2268439070581912/2935149819780672/6259162958285469/latest.html)
 <br/>
 <br/> <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="finaccess_economic_opportunity.png" width="800">
-    <img src="finaccess_account-ownership_vs_opportunity.png" width="800">
-    <img src="finaccess_exclusion_maps.png" width="800">
-    <img src="finaccess_exclusion_by_age.png" width="800">
+    <img src="reports/finaccess_economic_opportunity.png" width="800">
+    <img src="reports/finaccess_account-ownership_vs_opportunity.png" width="800">
+    <img src="reports/finaccess_exclusion_maps.png" width="800">
+    <img src="reports/finaccess_exclusion_by_age.png" width="800">
 </div>
